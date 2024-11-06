@@ -23,17 +23,17 @@
 
 ## 📚 Lista de clases
 
-| # de clase |                                          Tema                                           |
-| ---------- | :-------------------------------------------------------------------------------------: |
-| Clase #0   |              Introduccion al temario; conociendo a los compañeros y sensei              |
-| Clase #1   |                   Introduccion a la AI y perzonalización de la misma                    |
-| Clase #2   |            Introduccion de VS code, instalacion, extensiones y primer HTML5             |
-| Clase #3   |           Instalacion y confirguracion de GIT, GitHub, Node JS y primer repo            |
-| Clase #4   | Practicas de GIT control de versiones, Markdown y personalizacion de GitHub (README.md) |
+| # de clase |                                           Tema                                           |
+| ---------- | :--------------------------------------------------------------------------------------: |
+| Clase #0   |             Introducción al temario; conociendo a los compañeros y al sensei             |
+| Clase #1   |                    Introducción a la IA y personalización de la misma                    |
+| Clase #2   |             Introducción a VS Code, instalación, extensiones y primer HTML5              |
+| Clase #3   |         Instalación y configuración de GIT, GitHub, Node.js y primer repositorio         |
+| Clase #4   | Prácticas de GIT, control de versiones, Markdown y personalización de GitHub (README.md) |
 
 ## 📂 Retos y soluciones
 
 - **Reto 1:** Tuve problemas en Markdown para hacer funcionar los enlaces internos en la tabla de contenidos.
   **Solución:**
-  > Es crucial usar la sintaxis correcta para que funcione bien. Por ejemplo, **reemplazar los espacios por un guion (-)**. 
-  **NOTA:** Markdown ignora los emojis al reconocer los títulos. Después de mucha experimentación, encontré por qué no funcionaba: para que funcione el titulo: _**`🎉 Introducción`**_, es necesario etiquetarlo como -> ``#-introducción`` con un ``-`` al inicio, ya que después del emoji hay un espacio.
+  > Es crucial usar la sintaxis correcta para que funcione bien. Por ejemplo, **reemplazar los espacios por un guion (-)**.
+  > **NOTA:** Markdown ignora los emojis al reconocer los títulos. Después de mucha experimentación, encontré por qué no funcionaba: para que funcione el titulo: _**`🎉 Introducción`**_, es necesario etiquetarlo como -> `#-introducción` con un `-` al inicio, ya que después del emoji hay un espacio.
