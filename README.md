@@ -19,6 +19,9 @@
 
 ## 🗃️ Estructura del Proyecto
 
+- `Clase xx-xx-xxxx` - Folders por clase cuando se requiera, contendrán los archivos creados.
+- `Proyecto #x` - Proyectos y practicas recomendadas por el sensei.
+- `IMG` - Carpeta donde estarán la media usada en los proyectos.
 - `README.md` - ¡Estás aquí! Una guía para navegar el repositorio y ver mis avances.
 
 ## 📚 Lista de clases
