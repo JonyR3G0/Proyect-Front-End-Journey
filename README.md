@@ -8,12 +8,12 @@
 
 ## 🏆 Tabla de Contenidos
 
-- [🎉 Introducción](#introducción)
+- [🎉 Introducción](#-introducción)
 - [🗃️ Estructura del Proyecto](#estructura-del-proyecto)
 - [📚 Lista de clases](#lista-de-clases)
 - [📂 Retos y Soluciones](#retos-y-soluciones)
 
-## Introducción
+## 🎉 Introducción
 
 > _Aquí encontrarás **ejercicios, experimentos, y ejemplos de código HTML** que documentan mi viaje en el mundo de la programación. **Mi meta** es aprender al máximo en cada paso y llegar a ser uno de los 150 seleccionados para la fase 2._ 🚀
 
