@@ -4,8 +4,8 @@
 > _Este repositorio recopila mis avances en el curso de desarrollo front-end impartido por Dev.F con la sensei **Dolores**. Aquí encontrarás ejercicios, experimentos y ejemplos de código HTML mientras me sumerjo en el mundo de la programación, con la meta final de aprender todo lo posible en el proceso y ser uno de los 150 alumnos escogidos para la fase 2._
 >
 ## Tabla de Contenidos
-- [📂 Estructura del Proyecto](#estructura-del-proyecto)
-- [Lista de clases](#📚-lista-de-clases)
+- [📂 Estructura del Proyecto](#📂-estructura-del-proyecto)
+- [📚 Lista de clases](#📚-lista-de-clases)
 - [Retos y Soluciones](#retos-y-soluciones)
 - [Herramientas y Tecnologías](#herramientas-y-tecnologías)
 - [Reflexión Personal](#reflexión-personal)
