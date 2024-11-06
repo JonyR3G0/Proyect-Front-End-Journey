@@ -9,19 +9,19 @@
 ## 🏆 Tabla de Contenidos
 
 - [🎉 Introducción](#-introducción)
-- [🗃️ Estructura del Proyecto](#estructura-del-proyecto)
-- [📚 Lista de clases](#lista-de-clases)
-- [📂 Retos y Soluciones](#retos-y-soluciones)
+- [🗃️ Estructura del Proyecto](#-estructura-del-proyecto)
+- [📚 Lista de clases](#-lista-de-clases)
+- [📂 Retos y Soluciones](#-retos-y-soluciones)
 
 ## 🎉 Introducción
 
 > _Aquí encontrarás **ejercicios, experimentos, y ejemplos de código HTML** que documentan mi viaje en el mundo de la programación. **Mi meta** es aprender al máximo en cada paso y llegar a ser uno de los 150 seleccionados para la fase 2._ 🚀
 
-## Estructura del Proyecto
+## 🗃️ Estructura del Proyecto
 
 - `README.md` - ¡Estás aquí! Una guía para navegar el repositorio y ver mis avances.
 
-## Lista de clases
+## 📚 Lista de clases
 
 | # de clase |                                          Tema                                           |
 | ---------- | :-------------------------------------------------------------------------------------: |
@@ -31,7 +31,9 @@
 | Clase #3   |           Instalacion y confirguracion de GIT, GitHub, Node JS y primer repo            |
 | Clase #4   | Practicas de GIT control de versiones, Markdown y personalizacion de GitHub (README.md) |
 
-## Retos y soluciones
+## 📂 Retos y soluciones
 
-- **Reto 1:** Tuve problemas en markdown para hacer funcionar los links internos (de la tabla de contenidos).
-  **Solución:** No funciona si pones emojis en los titulos, retirarlos hizo que funcionara bien.
+- **Reto 1:** Tuve problemas en Markdown para hacer funcionar los enlaces internos en la tabla de contenidos.
+  **Solución:**
+  > Es crucial usar la sintaxis correcta para que funcione bien. Por ejemplo, **reemplazar los espacios por un guion (-)**. 
+  **NOTA:** Markdown ignora los emojis al reconocer los títulos. Después de mucha experimentación, encontré por qué no funcionaba: para que funcione el titulo: _**`🎉 Introducción`**_, es necesario etiquetarlo como -> ``#-introducción`` con un ``-`` al inicio, ya que después del emoji hay un espacio.
