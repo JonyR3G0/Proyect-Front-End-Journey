@@ -33,6 +33,7 @@
 | Clase #2   |             Introducción a VS Code, instalación, extensiones y primer HTML5              |
 | Clase #3   |         Instalación y configuración de GIT, GitHub, Node.js y primer repositorio         |
 | Clase #4   | Prácticas de GIT, control de versiones, Markdown y personalización de GitHub (README.md) |
+| Clase #5   |              Historia del HTML/Práctica HTML semantico/Etiquetas y consejos              |
 
 ## 📂 Retos y soluciones
 
