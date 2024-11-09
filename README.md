@@ -37,7 +37,10 @@
 
 ## 📂 Retos y soluciones
 
-- **Reto 1:** Tuve problemas en Markdown para hacer funcionar los enlaces internos en la tabla de contenidos.
+- **Reto 0:** Tuve problemas en Markdown para hacer funcionar los enlaces internos en la tabla de contenidos.
   **Solución:**
   > Es crucial usar la sintaxis correcta para que funcione bien. Por ejemplo, **reemplazar los espacios por un guion (-)**.
   > **NOTA:** Markdown ignora los emojis al reconocer los títulos. Después de mucha experimentación, encontré por qué no funcionaba: para que funcione el titulo: _**`🎉 Introducción`**_, es necesario etiquetarlo como -> `#-introducción` con un `-` al inicio, ya que después del emoji hay un espacio.
+  **Reto 1**
+  >Tomaba bastante tiempo estar separando las lineas de texto de un parrafo en HTML con la etiqueta `<p>`
+  >Descubri que es mucho mas facil al encontrar la etiqueta `<br>` juto donde se desea el salto de linea.
