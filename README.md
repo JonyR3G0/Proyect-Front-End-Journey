@@ -23,6 +23,7 @@
 - `px` - Proyectos y practicas recomendadas por el sensei (p de proyecto y el # de proyecto en clase).
 - `media` - Carpeta donde estarán la media usada en los proyectos.
 - `README.md` - ¡Estás aquí! Una guía para navegar el repositorio y ver mis avances.
+- `nombre y folder unico` - Cunando finalice un proyecto especifico lo renombrare con su titulo.
 
 ## 📚 Lista de clases
 
