@@ -24,17 +24,19 @@
 - `media` - Carpeta donde estarán la media usada en los proyectos.
 - `README.md` - ¡Estás aquí! Una guía para navegar el repositorio y ver mis avances.
 - `nombre y folder unico` - Cunando finalice un proyecto especifico lo renombrare con su titulo.
+- `index.html` - Un index que redirige a todos las practicas que hemos estado llevando, para hostearlo en `pages`
 
 ## 📚 Lista de clases
 
-| # de clase |                                           Tema                                           |
-| ---------- | :--------------------------------------------------------------------------------------: |
-| Clase #0   |             Introducción al temario; conociendo a los compañeros y al sensei             |
-| Clase #1   |                    Introducción a la IA y personalización de la misma                    |
-| Clase #2   |             Introducción a VS Code, instalación, extensiones y primer HTML5              |
-| Clase #3   |         Instalación y configuración de GIT, GitHub, Node.js y primer repositorio         |
-| Clase #4   | Prácticas de GIT, control de versiones, Markdown y personalización de GitHub (README.md) |
-| Clase #5   |              Historia del HTML/Práctica HTML semantico/Etiquetas y consejos              |
+| # de clase |                                                     Tema                                                      |
+| ---------- | :-----------------------------------------------------------------------------------------------------------: |
+| Clase #0   |                       Introducción al temario; conociendo a los compañeros y al sensei                        |
+| Clase #1   |                              Introducción a la IA y personalización de la misma                               |
+| Clase #2   |                        Introducción a VS Code, instalación, extensiones y primer HTML5                        |
+| Clase #3   |                   Instalación y configuración de GIT, GitHub, Node.js y primer repositorio                    |
+| Clase #4   |           Prácticas de GIT, control de versiones, Markdown y personalización de GitHub (README.md)            |
+| Clase #5   |                        Historia del HTML/Práctica HTML semantico/Etiquetas y consejos                         |
+| Clase #6   | Practica HTML formularios y nuevas etiquetas, github pages, deployments, iconos y tips para el proyecto final |
 
 ## 📂 Retos y soluciones
 
@@ -43,5 +45,7 @@
   > Es crucial usar la sintaxis correcta para que funcione bien. Por ejemplo, **reemplazar los espacios por un guion (-)**.
   > **NOTA:** Markdown ignora los emojis al reconocer los títulos. Después de mucha experimentación, encontré por qué no funcionaba: para que funcione el titulo: _**`🎉 Introducción`**_, es necesario etiquetarlo como -> `#-introducción` con un `-` al inicio, ya que después del emoji hay un espacio.
 - **Reto 1**
-  >Tomaba bastante tiempo estar separando las lineas de texto de un parrafo en HTML con la etiqueta `<p>`
-  >Descubri que es mucho mas facil al encontrar la etiqueta `<br>` juto donde se desea el salto de linea.
+  > Tomaba bastante tiempo estar separando las lineas de texto de un parrafo en HTML con la etiqueta `<p>`
+  > Descubri que es mucho mas facil al encontrar la etiqueta `<br>` juto donde se desea el salto de linea.
+- ** Reto 2 **
+  > Al compartir mis practicas, recibí feedback de mi familia respecto a algo que no había pensado: `el lenguaje`, la verdad es que si hice las paginas sin tener en mente el usar un tono formal y profesional, de ahora en adelante lo tendré en mente.
