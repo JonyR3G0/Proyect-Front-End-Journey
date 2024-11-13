@@ -47,5 +47,5 @@
 - **Reto 1**
   > Tomaba bastante tiempo estar separando las lineas de texto de un parrafo en HTML con la etiqueta `<p>`
   > Descubri que es mucho mas facil al encontrar la etiqueta `<br>` juto donde se desea el salto de linea.
-- ** Reto 2 **
+- **Reto 2**
   > Al compartir mis practicas, recibí feedback de mi familia respecto a algo que no había pensado: `el lenguaje`, la verdad es que si hice las paginas sin tener en mente el usar un tono formal y profesional, de ahora en adelante lo tendré en mente.
