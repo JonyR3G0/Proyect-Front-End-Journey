@@ -25,6 +25,7 @@
 - `README.md` - ¡Estás aquí! Una guía para navegar el repositorio y ver mis avances.
 - `nombre y folder unico` - Cunando finalice un proyecto especifico lo renombrare con su titulo.
 - `index.html` - Un index que redirige a todos las practicas que hemos estado llevando, para hostearlo en `pages`
+- `assets` - Es la manera correcta en vez de usar `media`, apenas lo aprendí asi que solo los nuevos proyectos la usan, eventualmente corregire las otras.
 
 ## 📚 Lista de clases
 
@@ -49,3 +50,5 @@
   > Descubri que es mucho mas facil al encontrar la etiqueta `<br>` juto donde se desea el salto de linea.
 - **Reto 2**
   > Al compartir mis practicas, recibí feedback de mi familia respecto a algo que no había pensado: `el lenguaje`, la verdad es que si hice las paginas sin tener en mente el usar un tono formal y profesional, de ahora en adelante lo tendré en mente.
+- **Reto 3**
+  > Este no es tanto un reto, solo una nota, al parecer si en HTML usas `<a href="#" ...` te redirige hasta el header, (y yo haciendole ids a los headers xd)
