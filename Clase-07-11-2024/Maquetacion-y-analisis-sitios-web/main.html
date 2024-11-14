@@ -1,5 +1,4 @@
-<!-- https://html5up.net/photon -->
- <!-- Objetivo: Replicar la estructura HTML de un template sencillo para identificar
+<!-- Objetivo: Replicar la estructura HTML de un template sencillo para identificar
 etiquetas y elementos clave.
 Este ejercicio les ayudará a comprender cómo se organiza una página y cómo
 aplicar el mismo proceso en sus propios
@@ -14,3 +13,214 @@ Identifica el uso de etiquetas semánticas como <header> , <main> ,
 <section> , y <footer> .
 Analiza el uso de navegación ( <nav> ), listas, enlaces e imágenes.
  -->
+
+<!-- Yo escogi este template: https://html5up.net/photon -->
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Un clon sin estilo de una plantilla de html5up llamada photon"
+    />
+    <meta name="author" content="Jonathan Reyes" />
+    <link rel="icon" href="assets/img/cuadrado.png" />
+    <title>Photon | HTML5 UP</title>
+  </head>
+  <body>
+    <header>
+      <h1>
+        Hi, I'm Photon, another fine <br />
+        little freebie from HTML5 UP.
+      </h1>
+      <p>
+        Lorem ipsum dolor sit amet consectetur, <br />
+        adipisicing elit. Sed porro nulla cumque quas eveniet hic
+      </p>
+      <nav>
+        <a href="#uno">DISCOVER</a>
+      </nav>
+    </header>
+    <main id="uno">
+      <!-- La sensei nos pidio que lo hicieramos sin ver el codigo fuente de la pagina, asi que por eso me queda la duda si es section o article -->
+
+      <section>
+        <h2>
+          Lorem ipsum dolor adipiscing <br />
+          amet dolor consequat
+        </h2>
+        <p>
+          Adipiscing a commodo ante nunc accumsan et interdum mi ante <br />
+          adipiscing. A nunc lobortis non nisl amet vis sed volutpat aclacus
+          <br />
+          nascetur ac non. Lorem curae et ante amet sapien sed tempus adipiscing
+          <br />
+          id accumsan.
+        </p>
+        <img
+          src="./assets/img/pic01.jpg"
+          alt="Una persona sentada con buenas vistas"
+          title="Una persona sentada con buenas vistas"
+          width="200"
+        />
+        <figure>
+          <img
+            src="./assets/img/photon 1.png"
+            alt="Maquetado de referencia"
+            title="Maquetado de referencia"
+            width="400"
+          />
+          <figcaption>
+            Hasta aqui use esta imagen maquetado de referencia
+          </figcaption>
+        </figure>
+      </section>
+
+      <section>
+        <h2>
+          Lorem ipsum dolor adipiscing <br />
+          amet dolor consequat
+        </h2>
+        <p>
+          Adipiscing a commodo ante nunc accumsan interdum mi ante adipiscing. A
+          <br />
+          nunc lobortis non nisl amet vis volutpat aclacus nascetur ac non.
+          <br />
+          Lorem curae eu ante amet sapien in tempus ac. Adipiscing id accumsan
+          <br />
+          adipiscing ipsum.
+        </p>
+        <p>
+          Blandit faucibus proin. Ac aliquam integer adipiscing enim non <br />
+          praesent vis commodo nunc phasellus cubilia ac risus accumsan. <br />
+          Accumsan blandit. Lobortis phasellus non lobortis dit varius mi varius
+          <br />
+          accumsan lobortis. Blandit ante aliquam lacinia lorem lobortis semper
+          <br />
+          morbi col faucibus vitae integer placerat accumsan orci eu mi odio
+          <br />
+          tempus adipiscing adipiscing adipiscing curae consequat feugiat etiam
+          <br />
+          dolore.
+        </p>
+        <p>
+          Adipiscing a commodo ante nunc accumsan interdum mi ante adipiscing. A
+          <br />
+          nunc lobortis non nisl amet vis volutpat aclacus nascetur ac non.
+          <br />
+          Lorem curae eu ante amet sapien in tempus ac. Adipiscing id accumsan
+          <br />
+          adipiscing ipsum.
+        </p>
+        <img
+          src="./assets/img/img icons.png"
+          alt="6 iconos con formateo en css"
+        />
+        <figure>
+          <img
+            src="./assets/img/photon 2.png"
+            alt="referencia parte 2"
+            title="referencia parte 2"
+            width="400"
+          />
+          <figcaption>
+            En esta seccion use esta imagen de referencia (use una captura de
+            <br />
+            pantalla de los 6 iconos porque llevan formateo de css y no se como
+            <br />
+            integrarlos, primero pense que eran fotos pero no.
+          </figcaption>
+        </figure>
+      </section>
+
+      <section>
+        <h2>Adipiscing amet consequat</h2>
+        <p>Ante nunc accumsan et aclacus nascetur ac ante amet sapien sed.</p>
+        <figure>
+          <img
+            src="./assets/img/pic02.jpg"
+            alt="una persona cruzando un puente"
+            width="200"
+          />
+          <figcaption>Magna feugiat lorem</figcaption>
+          <p>
+            Adipiscing a commodo ante nunc magna <br />
+            lorem et interdum mi ante nunc lobortis non <br />
+            amet vis sed volutpat et nascetur.
+          </p>
+          <a href="#">MORE</a>
+          <!-- OMG si haces un href a un tag (＃) te lleva al inicio de la page (gracias photon xd)-->
+        </figure>
+
+        <figure>
+          <img
+            src="./assets/img/pic03.jpg"
+            alt="una carretera muy dramatica"
+            width="200"
+          />
+          <figcaption>Magna feugiat lorem</figcaption>
+          <p>
+            Adipiscing a commodo ante nunc magna <br />
+            lorem et interdum mi ante nunc lobortis non <br />
+            amet vis sed volutpat et nascetur.
+          </p>
+          <a href="#">MORE</a>
+        </figure>
+        <figure>
+          <img src="./assets/img/pic04.jpg" alt="una cabañita" width="200" />
+          <figcaption>Magna feugiat lorem</figcaption>
+          <p>
+            Adipiscing a commodo ante nunc magna <br />
+            lorem et interdum mi ante nunc lobortis non <br />
+            amet vis sed volutpat et nascetur.
+          </p>
+          <a href="#">MORE</a>
+        </figure>
+        <!-- casi olvido estar insertando mis maquetados de paint uwu -->
+        <figure>
+          <img
+            src="./assets/img/photon 3.png"
+            alt="Maquetado de referencia"
+            title="Maquetado de referencia"
+            width="400"
+          />
+          <figcaption>Aqui use esta imagen maquetado de referencia</figcaption>
+        </figure>
+      </section>
+
+      <section>
+        <h2>Ipsum feugiat consequat?</h2>
+        <p>Sed lacus nascetur ac ante amet sapien.</p>
+        <a href="#">SIGN UP</a>
+        <a href="#">LEARN MORE</a>
+        <!-- Esta es la section mas cortita -->
+        <figure>
+          <img
+            src="./assets/img/photon 4.png"
+            alt="Maquetado de referencia"
+            title="Maquetado de referencia"
+            width="400"
+          />
+          <figcaption>Aqui use esta imagen maquetado de referencia</figcaption>
+        </figure>
+      </section>
+    </main>
+    <footer>
+
+      <p>
+        <a href="#">Logo X</a> - <a href="#"> Logo facebook </a> - 
+        <a href="#"> Logo Insta </a> - <a href="#"> Logo github </a> - 
+        <a href="#"> Logo mail </a> 
+      </p>
+
+      <p>
+        &copy; Untitled | Design:
+        <a href="http://https://html5up.net" target="_blank">HTML5 UP </a> |
+        Demo Images: <a href="http://unsplash.com" target="_blank">Unsplash</a>
+      </p>
+    </footer>
+  </body>
+</html>
+<!-- Bastante feliz con el resultado, que emocion poderle dar formato con css mas adelante :) -->
