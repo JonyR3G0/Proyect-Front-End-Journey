@@ -1,4 +1,4 @@
-# 🌐 Proyect: Front-End Journey
+# 🌐 Project: Front-End Journey
 
 <!--- Es una buena practica comentar, pero markdown es bastante "straight forward" no? -->
 
